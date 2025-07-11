@@ -1,0 +1,5 @@
+body { font-family: Inter, sans-serif; }
+.view { display: none; }
+.view.active { display: block; }
+.nav-btn { width: 100%; text-align: left; padding: .5rem; border-radius: .375rem; }
+.nav-btn:hover { background: rgba(255,255,255,0.1); }
